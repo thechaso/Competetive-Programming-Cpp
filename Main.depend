@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1615410254 source:c:\users\welcome\codeblocksprojects\main\t.cpp
+	<iostream>
+
+1620678061 source:c:\users\welcome\codeblocksprojects\main\main.cpp
+	<bits/stdc++.h>
+	"Geometry.h"
+
+1615414218 c:\users\welcome\codeblocksprojects\main\linked_list.h
+	<iostream>
+
+1615415938 c:\users\welcome\codeblocksprojects\main\doubly_linked_list.h
+	<iostream>
+
+1615496983 c:\users\welcome\codeblocksprojects\main\binary_search_trees.h
+	<iostream>
+	<queue>
+
+1618953681 c:\users\welcome\codeblocksprojects\main\adjacencylistunweighted.h
+	<bits/stdc++.h>
+
+1618936204 c:\users\welcome\codeblocksprojects\main\adjacencylistweighted.h
+	<bits/stdc++.h>
+
+1618936687 c:\users\welcome\codeblocksprojects\main\adjacencymatrixunweighted.h
+	<bits/stdc++.h>
+
+1618937173 c:\users\welcome\codeblocksprojects\main\adjacencymatrixweighted.h
+	<bits/stdc++.h>
+
+1619619331 c:\users\welcome\codeblocksprojects\main\topsort.h
+	<bits/stdc++.h>
+
+1620090227 c:\users\welcome\codeblocksprojects\main\numbertheory.h
+	<bits/stdc++.h>
+
+1620252628 c:\users\welcome\codeblocksprojects\main\matrix.h
+	<bits/stdc++.h>
+
+1620695140 c:\users\welcome\codeblocksprojects\main\geometry.h
+	<bits/stdc++.h>
+
